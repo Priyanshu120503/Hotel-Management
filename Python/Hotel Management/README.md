@@ -1,6 +1,7 @@
 # Hotel Management System
 
-It is GUI made using <b>tkinter<b> in Python. <br>
+It is GUI made using <b>Tkinter<b> in Python. <br>
+It uses an SQL database to store the order data, which is later used for analysis.
 
 ### Start Screen
 ![Start Screen](https://github.com/Priyanshu120503/Hotel-Management/assets/103837992/1d007f14-2de1-4fc3-b04d-7960e61e99ed)
